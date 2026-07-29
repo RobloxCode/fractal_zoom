@@ -3,8 +3,9 @@
 An interactive Mandelbrot / Julia set viewer written in Rust. Renders on the
 CPU into a window via `minifb` — no GPU setup, no shaders, just pixels.
 
-> **Note:** this project was vibecoded — built by prompting Claude rather
-> than written by hand line-by-line. It was compiled and tested in a sandbox
+> **Note:** this project was vibecoded i wanted to see how this ai prompting
+> thing does.
+> It was compiled and tested in a sandbox
 > to make sure it actually builds and runs, but treat it as a starting point
 > to poke at and modify, not battle-tested production code.
 
